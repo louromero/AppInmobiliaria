@@ -1,0 +1,15 @@
+com\mycompany\appinmobiliaria\JakartaRestConfiguration.class
+session\ImagenesInmuebleFacade.class
+controlador\Manejador.class
+session\AgenteFacade.class
+entidad\VisitaInmueble.class
+com\mycompany\appinmobiliaria\resources\JakartaEE10Resource.class
+session\ClienteFacade.class
+entidad\ImagenesInmueble.class
+entidad\Agente.class
+entidad\Cliente.class
+entidad\VisitaInmueblePK.class
+session\AbstractFacade.class
+entidad\Inmueble.class
+session\InmuebleFacade.class
+session\VisitaInmuebleFacade.class
